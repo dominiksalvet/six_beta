@@ -4,7 +4,7 @@ Six Beta is the successor of the Six Alpha 4-bit processor. It brings pipelining
 
 ## License
 
-This project is licensed under an Open Source Initiative approved license, MIT License. See the [*LICENSE.txt*](LICENSE.txt) file for details.
+This project is licensed under an Open Source Initiative approved license, the MIT License. See the [*LICENSE.txt*](LICENSE.txt) file for details.
 
 <p align="center">
   <a href="http://opensource.org/">
