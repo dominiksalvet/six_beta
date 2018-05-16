@@ -1,6 +1,6 @@
-# Six Alpha Processor
+# Six Beta Processor
 
-Six Beta is the successor of the Six Alpha 4-bit processor. It brings pipelining and programming interface as it's main advantages.
+Six Beta is the successor of the Six Alpha 4-bit processor. It brings pipelining and programming interface compared to the Six Alpha.
 
 ## License
 
