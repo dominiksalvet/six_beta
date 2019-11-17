@@ -1,3 +1,7 @@
+**This repository is going to be [remastered](https://github.com/users/dominiksalvet/projects/2#card-26446302) sometime in the future.**
+
+---
+
 # Six Beta Processor
 
 Six Beta is the successor of the Six Alpha 4-bit processor. It brings pipelining and programming interface compared to the Six Alpha.
