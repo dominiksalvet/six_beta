@@ -4,6 +4,8 @@
 
 # Six Beta Processor
 
+![Six Beta pipeline](img/pipeline.png)
+
 Six Beta is the successor of the Six Alpha 4-bit processor. It brings pipelining and programming interface compared to the Six Alpha.
 
 ## License
